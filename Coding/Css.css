@@ -4,7 +4,7 @@
     font-size: medium;
 }
 
-.body{
+body{
     background-color: aquamarine;
 }
 
@@ -14,4 +14,8 @@
 
 button{
     background-color: blue;
+}
+
+p{
+    text-align: center;
 }

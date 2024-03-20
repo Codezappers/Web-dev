@@ -71,6 +71,9 @@ a{
 footer{
    display: block;
    border:5px solid cadetblue;
-   
+}
 
+header{
+    background-image:url("");
+    background-size: cover;
 }

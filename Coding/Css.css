@@ -17,7 +17,7 @@ body{
 #Button1{
     background-color: aliceblue;
     text-align: center;
-    padding-left: 10px;  
+    padding-left: 10;  
 }
 
 p{
@@ -25,7 +25,7 @@ p{
     font-weight: 300;
     text-transform: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: aliceblue;
+    color: bisque;
 
 }
 
@@ -70,10 +70,31 @@ a{
 
 footer{
    display: block;
-   border:5px solid cadetblue;
+   border:5px solid blanchedalmond;
 }
 
 header{
     background-image:url("");
     background-size: cover;
+}
+ 
+body{
+    text-align: center;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+#box1{
+    background-color: aqua;
 }

@@ -1,0 +1,18 @@
+let a=5;
+let b=8;
+console.log("a + b =", a+b);
+console.log("a % b =", a%b);
+console.log("a ** b =", a**b);
+console.log("a  b =", a+b);
+a++;
+console.log("a++ =",a);
+++a;
+console.log("++a =",a);
+a--;
+console.log("a-- =",a);
+--a;
+console.log("--a =",a);
+a += 4;
+console.log("a+= =",a);
+a -= 4;
+console.log("a-= =",a);

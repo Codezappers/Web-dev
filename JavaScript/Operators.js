@@ -16,3 +16,15 @@ a += 4;
 console.log("a+= =",a);
 a -= 4;
 console.log("a-= =",a);
+
+//let condition1 = a>b;
+//let condition2 = a  === 5 ;
+//console.log("condition1 && ccondition2 =" , condition1 &&condition2);
+
+//let condition1 = a>b;
+//let condition2 = a  === 5 ;
+//console.log("condition1 || ccondition2 =" , condition1 ||condition2);
+
+//let condition1 = a>b;
+//console.log("condition1 !=" , !condition1);
+
